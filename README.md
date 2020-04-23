@@ -8,9 +8,8 @@ Developing my CSS skills by making fun animations and draws with pure CSS and HT
 
 
 #### Tools: 
-
-  -HTML
-  -CSS
-  -Vanilla JavaScript
+    -HTML
+    -CSS
+    -Vanilla JavaScript
 
 ##### Also, check it out my CodePen for many more projects like this https://codepen.io/dasilvabrunotexas/pen/pojzqxr?editors=1100
