@@ -1,4 +1,4 @@
-console.log(`Cia , mi piace parlare italiano `)
+console.log(`Ciao , mi piace parlare italiano `)
 
  const pupill = document.getElementsByClassName("followMouse");
 
